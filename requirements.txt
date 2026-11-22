@@ -1,0 +1,9 @@
+langchain
+langchain-core
+langchain-classic
+langchain-community
+pypdf
+langchain-community
+pypdf
+langchain-ollama
+langchain-chroma
